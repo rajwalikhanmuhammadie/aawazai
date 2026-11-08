@@ -1,0 +1,8 @@
+{
+  "name": "AawazAI - Gemini Voice Studio for Videos",
+  "description": "Create studio-quality, unique AI voiceovers for videos, Reels, Shorts, and storytelling using Gemini voice models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
